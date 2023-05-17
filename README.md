@@ -10,8 +10,7 @@
 </div>
   
   ##
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joaolucas2210&hide=contribs,prs)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joaolucas2210&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
 
  ##
 <div> 
