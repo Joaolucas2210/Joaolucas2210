@@ -1,5 +1,5 @@
 ### Hi there 👋
-Olá, meu nome é **João Lucas**, sou de Goiânia, *Desenvolvedor Web* 🖥️
+Olá, meu nome é **João Lucas**, sou de Goiânia, *Desenvolvedor* 🖥️
 <br />
 <br />
  **Front-End**
@@ -15,8 +15,6 @@ Olá, meu nome é **João Lucas**, sou de Goiânia, *Desenvolvedor Web* 🖥️
 
 **Contato**
 - 📬  Se quiser entrar em contato só mandar um email para: j.lucascamargo@gmail.com
-- 📓 
-
 <br />
 
 **Linguagens e Ferramentas**
