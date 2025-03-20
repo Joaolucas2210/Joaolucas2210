@@ -38,7 +38,5 @@ Atuo no desenvolvimento de soluções escaláveis e eficientes, com foco em arqu
 
 ## 📫 Onde me encontrar?
 - 📩 **E-mail:** [j.lucascamargo@gmail.com](mailto:j.lucascamargo@gmail.com)  
-- 💼 **LinkedIn:** [Seu LinkedIn](#)  
-- 📸 **Instagram:** [Seu Instagram](#)  
-
+- 💼 **LinkedIn:** [João Lucas Camargo](https://www.linkedin.com/in/jo%C3%A3o-lucas-camargo/)  
 ---
