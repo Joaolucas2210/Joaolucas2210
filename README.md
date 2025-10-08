@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou João Lucas!
 
-🚀 **Desenvolvedor Full-Stack | Especialista em Dados & Salesforce**  
+🚀 **Software Engineer | Especialista em Dados & Salesforce**  
 Atuo no desenvolvimento de soluções escaláveis e eficientes, com foco em arquitetura limpa, automação de pipelines de dados e personalização de Salesforce.
 
 ---
